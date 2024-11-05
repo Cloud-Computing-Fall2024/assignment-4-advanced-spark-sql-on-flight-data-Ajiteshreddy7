@@ -8,4 +8,4 @@ FlightNum,CarrierName,Origin,Destination,scheduled_travel_time,actual_travel_tim
 4002,Qantas,MIA,SEA,420.0,569.0,149.0,QF
 5825,Singapore Airlines,DFW,JFK,540.0,394.0,146.0,SQ
 9586,Southwest Airlines,SFO,ATL,300.0,446.0,146.0,SW
-3807,United Airlines,BOS,DEN,180.0,326.0,146.0,UA
+9348,United Airlines,SEA,ORD,780.0,638.0,142.0,UA
